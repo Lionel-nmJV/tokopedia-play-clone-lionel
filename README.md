@@ -71,7 +71,7 @@ Go to the file directories named and install dependencies
 npm install express mongoose jsonwebtoken nodemon dotenv bcrypt cookie-parser
 ```
 
-Run database using mongosh
+Run database using mongosh (shell)
 ```bash
 mongosh "mongodb+srv://cluster0.4bkzqig.mongodb.net/" --apiVersion 1 --username mycluster
 ```
@@ -93,4 +93,5 @@ And i will gave the [API](https://gist.github.com/Lionel-nmJV/3a5588d5a0ca0ac96d
 will automatically change the value.
 - at github gist i dont know why some of response and the request not fully include into the bash
 - You can use postman for the API
-
+- because i use mongodb atlas for the database connection, if you want to check database in your client you can follow the guide in usage.
+connection string
