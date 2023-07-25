@@ -8,7 +8,7 @@ Welcome to the Tokopedia Play Clone project! This is a clone of the popular vide
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
-- [API](#API)
+- [api](#api)
 - [note](#note)
 
 ## Features
