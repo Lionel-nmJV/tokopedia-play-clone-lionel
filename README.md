@@ -89,7 +89,8 @@ And i will gave the [API](https://gist.github.com/Lionel-nmJV/3a5588d5a0ca0ac96d
 
 - connection string mongodb into nodejs: mongodb+srv://mycluster:2804@cluster0.4bkzqig.mongodb.net/?retryWrites=true&w=majority
 - some of the features still under development such as dislike, list product
-- the database i use is "test" and there's 3 collection named "users", "youtubes", "comments"
+- the database i use is "test" and there's 3 collection named "users", "youtubes", "comments" if you post or put in api so the database
+will automatically change the value.
 - at github gist i dont know why some of response and the request not fully include into the bash
 - You can use postman for the API
 
