@@ -66,7 +66,7 @@ Provide instructions on how to set up the project locally on the developer's mac
 git clone
 ```
 
-Go to the file directories named and install dependencies
+Go to the file directories and install dependencies
 ```bash
 npm install express mongoose jsonwebtoken nodemon dotenv bcrypt cookie-parser
 ```
