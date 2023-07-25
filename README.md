@@ -37,7 +37,7 @@ Welcome to the Tokopedia Play Clone project! This is a clone of the popular vide
 
 ## Technologies Used
 
-List the main technologies, frameworks, and libraries used in your project.
+List the main technologies, frameworks, and libraries used in this project.
 
 - Frontend: -
 - Backend: NodeJS
