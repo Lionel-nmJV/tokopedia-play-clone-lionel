@@ -83,7 +83,7 @@ Run the server, and it will run at port 3000
 npm start
 ```
 ## API
-And i will gave the [API](https://gist.github.com/Lionel-nmJV/3a5588d5a0ca0ac96deccb444c354e47) connection documentation using github gist
+And i will gave the [API](https://youtu.be/RJj0DvGP8eY) connection documentation using github gist
 
 ## note
 
